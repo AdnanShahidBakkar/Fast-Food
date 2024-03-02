@@ -1,0 +1,97 @@
+/* index pagecss */
+
+body.main{
+    background-color:rgb(250, 189, 119)
+    
+}
+h1.fast{
+    background-color:rgb(245, 135, 10);
+    color:wheat;
+    border-radius: 50px;
+    width: 80%;
+    height: 20%;
+    font-size: 60px;
+    border-bottom-left-radius: 1000px;
+    border-bottom-right-radius: 1000px;
+}
+a.aa{
+    font-size: 30px;          
+}
+a:visited.aa{
+    background-color:blueviolet;
+
+
+}
+nav.navv{
+/* background-color:rgb(250, 189, 119); */
+background: rgb(245, 135, 10);
+border-top-right-radius: 100px;
+width: 50%;
+height:20%;
+border-bottom-left-radius: 100px;
+}
+
+
+/* About pagecss */
+
+h1.hh{
+    background-color: cornflowerblue;
+    color: rgb(243, 243, 252);
+    width: 130px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 25px;
+    text-align: center;
+    
+}
+p.pp{
+    color:darkblue;
+    align-items: center;
+    font-size: 30px;
+    
+}
+body.bd{
+    background-color:wheat;
+}
+
+/* Grocery pagecss */
+h1.gr{
+    background-color:rgb(245, 139, 9);
+    color:white;
+    border-radius: 20px;
+    width: 21%;
+    height: 20%;
+    font-size: 60px;
+}
+body.grb{background-color: bisque;}
+
+/* Contactus pagecss */
+
+h1.cnt{ 
+    background-color:rgb(245, 139, 9);
+    color:white;
+    border-radius: 80px;
+    width: 60%;
+    height: 20%;
+    font-size: 60px;
+}
+h2.ad1{
+    background-color:cornsilk;
+    color:red;
+    border-radius: 80px;
+    width: 40%;
+    height: 20%;
+    font-size: 40px;
+}
+h3.ad2{
+    background-color:cornsilk;
+    color:red;
+    border-radius: 80px;
+    width: 80%;
+    height: 20%;
+    font-size: 40px;
+}
+body{
+   
+   background-color:burlywood;
+}
+a{font-size: xx-large;}
